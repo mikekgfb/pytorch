@@ -1537,3 +1537,5 @@ endif()
 #
 # End ATen checks
 #
+
+add_subdirectory(${CMAKE_SOURCE_DIR}/third_party/fmt)
